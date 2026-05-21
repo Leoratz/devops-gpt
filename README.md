@@ -2,7 +2,7 @@
 **Sujet : Lancement du projet "DevOpsGPT"**
 **Durée : 3h00 | Documents et internet autorisés | Travail individuel**
 
-## Contexte
+## Contexte 
 Vous avez été recruté(e) par l'entreprise OpenDevOps. Votre première mission est d'aider à concevoir et déployer leur toute nouvelle application web : **DevOpsGPT**. 
 Ce TP est divisé en 3 parties indépendantes. Si vous bloquez sur une question, passez à la suivante !
 
